@@ -2,7 +2,7 @@
 
 Essa é um exemplo de uma API (microserviço) para estudo tanto de programação quanto testes automatizados.
 
-Ela foi criada para o curso de teste de APIS com Postman, Java, Restassured [disponível aqui](https://viniciuspessoni.com/curso-testando-apis-com-postman-do-zero)
+Ela foi criada para o curso de teste de APIS com Postman, Java, Restassured.
 
 Mesmo sem ter feito o curso, você pode baixar e executar a API pra estudo =)
 
@@ -17,8 +17,6 @@ Baixe e instale a JDK mais recente [JDK](https://www.oracle.com/technetwork/java
 ### Como rodar esse projeto
 
 Clone ou baixe o projeto.
-
-Navegue até a pasta com.viniciuspessoni e abra a classe Aplicacao.kt.
 
 Um botão verde (um play) deve aparecer ao lado na linha 9, basta apertar ele.
 
@@ -78,14 +76,4 @@ Para uma visão completa dos códigos de resposta em cada endpoint, enquanto o s
 O swagger dela também está disponível no HEROKU pelo link:
 https://tester-global-cliente-api.herokuapp.com/swagger-ui.html#/
 
-Baixe a coleção do POSTMAN que possui os requests (métodos HTTP)  que exercitam essa API a partir do meu site:
 
-[viniciuspessoni.com/downloads]( https://www.viniciuspessoni.com/downloads)
-
-Me Segue =}
-
-😍 [YouTube]( https://www.youtube.com/c/pessonizando)
-
-💗 [Instagram](https://www.instagram.com/pessonizando)
-
-⭐ [Telegram](https://t.me/pessonizando)
